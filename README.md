@@ -1,1 +1,4 @@
-![Image of Welcome](https://i.ibb.co/0BYCh6d/Getting-Coffee-pana.png width = 200)
+
+<p align="center">
+  <img width="500" height="500" src="https://i.ibb.co/nmsKkvp/Getting-Coffee-pana.png">
+</p>
