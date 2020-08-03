@@ -1,1 +1,1 @@
-![Image of Welcome](https://stories.freepik.com/illustration/getting-coffee/pana/animate?share=2996)
+![Image of Welcome](https://i.ibb.co/0BYCh6d/Getting-Coffee-pana.png)
