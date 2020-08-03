@@ -14,4 +14,4 @@ I consider that digital transformation will be the key to face many future chall
   <img width="400" height="400" src="https://i.ibb.co/nmsKkvp/Getting-Coffee-pana.png">
 </p>
 
-I love the coffee, travel, the long walks, the animals and nature.
+
