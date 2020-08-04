@@ -1,4 +1,9 @@
 # Hello, I'm Marianella
+
+<p align="center">
+  <img width="360" height="360" src="https://i.ibb.co/6JBmXng/Getting-Coffee-1.gif">
+</p>
+
 ## Electrical Engineer ⚡
 ### National University of Colombia
 I am interested in power systems, electrical markets, energy planning and renewable resources.
@@ -10,9 +15,7 @@ Also I enjoy designing lighting.
 Currently, I'm studying programming and learning some tools that allow me to analyze complex systems.
 I consider that digital transformation will be the key to face many future challenges.
 
-<p align="center">
-  <img width="360" height="360" src="https://i.ibb.co/6JBmXng/Getting-Coffee-1.gif">
-</p>
+
 
 <a>
 <img width="450" height="224" img align="left" alt="Marianella's Github Stats" src="https://github-readme-stats.vercel.app/api?username=marianellamonroyortizhb&theme=vue&show_icons=true&hide_border=true" />
