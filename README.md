@@ -14,8 +14,6 @@ I consider that digital transformation will be the key to face many future chall
   <img width="360" height="360" src="https://i.ibb.co/nmsKkvp/Getting-Coffee-pana.png">
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianellamonroyortizhb&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <br />
 
 ---
