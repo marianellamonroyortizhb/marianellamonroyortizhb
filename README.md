@@ -1,4 +1,4 @@
-# Marianella Monroy Ortiz
+# Hello, I'm Marianella
 ## Electrical Engineer ⚡
 ### National University of Colombia
 I am interested in power systems, electrical markets, energy planning and renewable resources.
@@ -11,7 +11,26 @@ Currently, I'm studying programming and learning some tools that allow me to ana
 I consider that digital transformation will be the key to face many future challenges.
 
 <p align="center">
-  <img width="400" height="400" src="https://i.ibb.co/nmsKkvp/Getting-Coffee-pana.png">
+  <img width="360" height="360" src="https://i.ibb.co/nmsKkvp/Getting-Coffee-pana.png">
 </p>
 
+<br />
 
+---
+
+<img align="left" alt="Marianella's Github Stats" src="https://github-readme-stats.vercel.app/api?username=marianellamonroyortizhb&show_icons=true&hide_border=true" />
+
+<br />
+
+### Contact me:
+[<img align="left" alt="nelimonroyortiz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="nelimonroyortiz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="nelimonroyortiz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[linkedin]: https://www.linkedin.com/in/marianella-monroy-ortiz/
+[twitter]: https://twitter.com/nelimonroyortiz
+[instagram]: https://instagram.com/nelimonroyortiz 
+
+<br>
+<br>
+<a href="https://stories.freepik.com/people">Illustration by Freepik Stories</a>
