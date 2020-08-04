@@ -23,7 +23,7 @@ I consider that digital transformation will be the key to face many future chall
 </a>
 
 <a>
-<img align="center" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianellamonroyortizhb&layout=compact&hide_border=true" />
+<img align="center" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianellamonroyortizhb&theme=vue&layout=compact&hide_border=true" />
 </a>
 
 <br />
