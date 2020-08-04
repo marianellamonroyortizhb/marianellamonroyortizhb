@@ -20,16 +20,11 @@ I consider that digital transformation will be the key to face many future chall
 
 <br />
 
----
-
-
 <a>
 <img align="right" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianellamonroyortizhb&theme=vue&layout=compact&hide_border=true" />
 </a>
 
 <br />
-
----
 
 ### Contact me:
 [<img align="left" alt="nelimonroyortiz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -42,4 +37,5 @@ I consider that digital transformation will be the key to face many future chall
 
 <br>
 <br>
+
 <a href="https://stories.freepik.com/people">Illustration by Freepik Stories</a>
