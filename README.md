@@ -14,11 +14,15 @@ I consider that digital transformation will be the key to face many future chall
   <img width="360" height="360" src="https://i.ibb.co/nmsKkvp/Getting-Coffee-pana.png">
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianellamonroyortizhb&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <br />
 
 ---
 
-<img align="left" alt="Marianella's Github Stats" src="https://github-readme-stats.vercel.app/api?username=marianellamonroyortizhb&show_icons=true&hide_border=true" />
+<img align="left" alt="Marianella's Github Stats" src="https://github-readme-stats.vercel.app/api?username=marianellamonroyortizhb&theme=vue&show_icons=true&hide_border=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianellamonroyortizhb&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
