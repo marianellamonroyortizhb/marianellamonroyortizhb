@@ -15,13 +15,13 @@ I consider that digital transformation will be the key to face many future chall
 </p>
 
 <a>
-<img width="400" img align="left" alt="Marianella's Github Stats" src="https://github-readme-stats.vercel.app/api?username=marianellamonroyortizhb&theme=vue&show_icons=true&hide_border=true" />
+<img width="450" height="224" img align="left" alt="Marianella's Github Stats" src="https://github-readme-stats.vercel.app/api?username=marianellamonroyortizhb&theme=vue&show_icons=true&hide_border=true" />
 </a>
 
 <br>
 
 <a>
-<img width="400" img align="center" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianellamonroyortizhb&theme=vue&layout=compact&hide_border=true" />
+<img width="350" img align="center" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianellamonroyortizhb&theme=vue&layout=compact&hide_border=true" />
 </a>
 
 <br />
