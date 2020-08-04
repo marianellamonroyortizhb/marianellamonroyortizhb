@@ -14,19 +14,22 @@ I consider that digital transformation will be the key to face many future chall
   <img width="360" height="360" src="https://i.ibb.co/6JBmXng/Getting-Coffee-1.gif">
 </p>
 
+<a>
+<img align="left" alt="Marianella's Github Stats" src="https://github-readme-stats.vercel.app/api?username=marianellamonroyortizhb&theme=vue&show_icons=true&hide_border=true" />
+</a>
+
 <br />
 
 ---
 
-<a>
-<img align="center" alt="Marianella's Github Stats" src="https://github-readme-stats.vercel.app/api?username=marianellamonroyortizhb&theme=vue&show_icons=true&hide_border=true" />
-</a>
 
 <a>
-<img align="center" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianellamonroyortizhb&theme=vue&layout=compact&hide_border=true" />
+<img align="right" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianellamonroyortizhb&theme=vue&layout=compact&hide_border=true" />
 </a>
 
 <br />
+
+---
 
 ### Contact me:
 [<img align="left" alt="nelimonroyortiz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
