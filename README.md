@@ -13,7 +13,7 @@ I consider that digital transformation will be the key to face many future chall
 <p align="center">
   <img width="360" height="360" src="https://i.ibb.co/6JBmXng/Getting-Coffee-1.gif">
 </p>
-##
+
 <a>
 <img align="left" alt="Marianella's Github Stats" src="https://github-readme-stats.vercel.app/api?username=marianellamonroyortizhb&theme=vue&show_icons=true&hide_border=true" />
 </a>
