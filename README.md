@@ -1,9 +1,7 @@
 # Hello, I'm Marianella
-
-<p align="center">
-  <img width="360" height="360" src="https://i.ibb.co/6JBmXng/Getting-Coffee-1.gif">
-</p>
-
+<a align="center">
+  <img align="center" width="360" height="360" src="https://i.ibb.co/6JBmXng/Getting-Coffee-1.gif" class="responsive">
+</a>
 ## Electrical Engineer ⚡
 ### National University of Colombia
 I am interested in power systems, electrical markets, energy planning and renewable resources.
@@ -18,13 +16,13 @@ I consider that digital transformation will be the key to face many future chall
 
 
 <a>
-<img width="450" height="224" img align="left" alt="Marianella's Github Stats" src="https://github-readme-stats.vercel.app/api?username=marianellamonroyortizhb&theme=vue&show_icons=true&hide_border=true" />
+<img width="450" height="224" img align="left" alt="Marianella's Github Stats" src="https://github-readme-stats.vercel.app/api?username=marianellamonroyortizhb&theme=vue&show_icons=true&hide_border=true" class="responsive" />
 </a>
 
 <br>
 
 <a>
-<img width="350" img align="center" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianellamonroyortizhb&theme=vue&layout=compact&hide_border=true" />
+<img width="350" img align="center" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianellamonroyortizhb&theme=vue&layout=compact&hide_border=true" class="responsive"/>
 </a>
 
 <br />
