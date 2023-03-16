@@ -3,15 +3,11 @@
   <img width="360" height="360" src="https://i.ibb.co/6JBmXng/Getting-Coffee-1.gif" class="responsive">
 </p>
 
+## Software Developer 👩‍💻 - 
 ## Electrical Engineer ⚡
 ### National University of Colombia
-I am interested in power systems, electrical markets, energy planning and renewable resources.
-Also I enjoy designing lighting.
 
-## Software Development Student 👩‍💻
-### Holberton School
-Currently, I'm studying programming and learning some tools that allow me to analyze complex systems.
-I consider that digital transformation will be the key to face many future challenges.
+I am a software developer who has worked on applications in several languages and frameworks for the past three years, with a primary focus on Vue.js. As an electrical engineer, I am passionate about contributing to projects that can positively impact society by addressing socio-economic and environmental issues, as well as automating processes.
 
 <a>
 <img width="450" height="224" img align="left" alt="Marianella's Github Stats" src="https://github-readme-stats.vercel.app/api?username=marianellamonroyortizhb&theme=vue&show_icons=true&hide_border=true" class="responsive" />
