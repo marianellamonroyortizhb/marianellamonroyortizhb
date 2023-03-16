@@ -3,8 +3,7 @@
   <img width="360" height="360" src="https://i.ibb.co/6JBmXng/Getting-Coffee-1.gif" class="responsive">
 </p>
 
-## Software Developer 👩‍💻 - 
-## Electrical Engineer ⚡
+## Software Developer 👩‍💻 - ## Electrical Engineer ⚡
 ### National University of Colombia
 
 I am a software developer who has worked on applications in several languages and frameworks for the past three years, with a primary focus on Vue.js. As an electrical engineer, I am passionate about contributing to projects that can positively impact society by addressing socio-economic and environmental issues, as well as automating processes.
